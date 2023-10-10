@@ -1,1 +1,2 @@
-this another is a test
+this conflict is a test
+
